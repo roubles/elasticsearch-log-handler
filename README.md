@@ -1,2 +1,2 @@
 # elasticsearch-log-handler
-Elasticsearch Log Handler
+Python Elasticsearch Log Handler
